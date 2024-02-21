@@ -53,6 +53,7 @@ http://tinyurl.com/Shopify-App-Analysis-Project
 * Scatterplot: Average Rating vs Developer Answered
   * Comparison of the average rating on the Y-Axis by the value of the developer_answered column on the X-Axis.
   <img width="522" alt="Screen Shot 2024-02-20 at 4 51 54 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/5400ce42-0654-4728-a897-e63fd766c727">
+
   * False or if the developer did not answer, there's an average rating of 4.78, while True, or if the developer did answer, we have an average rating of 4.48. So apps where the developer answered show lower average ratings scores then apps where the developer did not answer.
 
 ### Part 3: App Reviews
