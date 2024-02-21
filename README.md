@@ -1,5 +1,6 @@
 # Shopify-App-Analysis-Project
-http://tinyurl.com/Shopify-App-Analysis-Project
+## Demo Video
+* http://tinyurl.com/Shopify-App-Analysis-Project
 ## Table of Contents
 ### Introduction
 ### The Data
@@ -19,7 +20,6 @@ http://tinyurl.com/Shopify-App-Analysis-Project
 * Bar Chart: Most Responsive Developers
 
 ### Part 4: Conclusions
-
 
 ### Introduction
 * You have been hired to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. This project aims to figure out the key factors that contribute to the success of a Shopify app.
