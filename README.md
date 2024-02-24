@@ -28,7 +28,7 @@ https://www.loom.com/share/5da606ebe68e499083b4980a31af0503?sid=9ad2df3f-3f12-4b
 * Bar Chart: Most Responsive Developers
 
 ### Part 4: Conclusions
-
+----------------------------------
 ### Introduction
 * You have been hired to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. This project aims to figure out the key factors that contribute to the success of a Shopify app.
 
