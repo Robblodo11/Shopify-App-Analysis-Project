@@ -6,7 +6,7 @@ Deployment: The Power BI project requires deployment to a cloud-based service su
 System Requirements: The project necessitates the latest version of Power BI Desktop for report authoring and development, along with compatible versions of Microsoft Office for data source integration. Additionally, ensuring the availability of appropriate data connectors and plugins for databases or applications used in the project is essential for seamless functionality.
 
 ## Demo Video
-* http://tinyurl.com/Shopify-App-Analysis-Project
+http://tinyurl.com/Shopify-App-Analysis-Project
 
 ## Table of Contents
 
